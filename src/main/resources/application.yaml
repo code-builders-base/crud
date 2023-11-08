@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/crud
+    username: postgres
+    password: postgres
+  jpa:
+    open-in-view: false
